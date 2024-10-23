@@ -9,6 +9,8 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">have successfully deployed tomcat app using jenkins</h1>
 	<h1 style="color: brown; font-size: 40px;" align="center">sucessfully deployed jenkins with tomcat by Rajkumar</h1> 
         <h1 style="color: pink; font-size: 40px;" align="center">sucessfully deployed jenkins with nexus by Rajkumar</h1>
+        <h1 style="color: black; font-size: 40px;" align="center">sucessfully deployed nexus by cd is continuos delivery</h1>
+       
  
 	
 	
